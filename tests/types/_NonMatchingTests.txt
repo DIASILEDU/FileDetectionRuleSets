@@ -138,6 +138,9 @@ acknex_dll
 acknex_wdf
 acknex.dlll
 acknex.wdff
+dataS2.gar.old
+dataS.garx
+shared/shader.gar.bak
 1acknex.dll
 1acknex.wdf
 lib_burst_generated.soo
