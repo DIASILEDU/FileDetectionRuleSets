@@ -118,6 +118,14 @@ libhl.soo
 libhl_so
 libhl_dll
 lib_burst_generated_dll
+file_gar
+file.garr
+file.ga
+notgar
+gar.txt
+test_gar
+dataS.gar.backup
+.gar.txt
 rotobuf
 protobu
 Data/Config/User.cfg1

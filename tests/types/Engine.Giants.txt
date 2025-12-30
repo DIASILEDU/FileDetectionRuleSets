@@ -1,0 +1,13 @@
+dataS.gar
+dataS2.gar
+/dataS.gar
+/dataS2.gar
+Sub/Folder/dataS.gar
+Sub/Folder/dataS2.gar
+shared/shader.gar
+/shared/shader.gar
+path/to/shared/shader.gar
+game.gar
+test.gar
+/some/path/file.gar
+data.gar
